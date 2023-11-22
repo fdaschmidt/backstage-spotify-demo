@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-spotify-demo
+  annotations:
+    github.com/project-slug: fdaschmidt/backstage-spotify-demo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
